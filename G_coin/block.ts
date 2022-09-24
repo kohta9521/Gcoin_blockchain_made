@@ -1,3 +1,6 @@
+import { Tx } from "./tx";
+import { Validator } from "./validator";
+
 //ブロッック
 export type Block = {
     //何番目のブロックか
