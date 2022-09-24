@@ -1,5 +1,5 @@
 //ブロッック
-type Block = {
+export type Block = {
     //何番目のブロックか
     index: number;
     //ブロックが作られた時刻 
