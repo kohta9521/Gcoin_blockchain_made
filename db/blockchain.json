@@ -7,13 +7,12 @@
                 "tx": {
                     "id": "",
                     "input": [],
-                    "output": [];
+                    "output": []
                 },
                 "validator": {
                     "addr": "",
                     "signature": "",
                     "token": 0
                 }
-
         }
 ]
